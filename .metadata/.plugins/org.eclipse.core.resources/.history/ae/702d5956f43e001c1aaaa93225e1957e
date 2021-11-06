@@ -1,0 +1,5 @@
+package com.ksi.springboot.model;
+
+public class Employee {
+
+}
