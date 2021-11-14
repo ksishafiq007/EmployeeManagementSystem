@@ -1,5 +1,0 @@
-package com.ksi.springboot.repository;
-
-public interface EmployeeRepository {
-
-}
